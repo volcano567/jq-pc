@@ -1,0 +1,10 @@
+document.writeln('<nav>');
+document.writeln('<ul>');
+document.writeln('<li><a href="../../../sgj.henan.gov.cn/index.htm"/*tpa=http://sgj.henan.gov.cn/*/>首页</a></li>');
+document.writeln('<li><a href="../../../sgj.henan.gov.cn/ywdt/index.htm"/*tpa=http://sgj.henan.gov.cn/ywdt/*/>要闻动态</a></li>');
+document.writeln('<li><a href="../../../sgj.henan.gov.cn/zwgk/index.htm"/*tpa=http://sgj.henan.gov.cn/zwgk/*/>政务公开</a></li>');
+document.writeln('<li><a href="http://www.hnzwfw.gov.cn/" target="_blank">政务服务</a></li>');
+document.writeln('<li><a href="../../../sgj.henan.gov.cn/jlhd/index.htm"/*tpa=http://sgj.henan.gov.cn/jlhd/*/>互动交流</a></li>');
+document.writeln('<li><a href="../../../sgj.henan.gov.cn/ztjj/index.htm"/*tpa=http://sgj.henan.gov.cn/ztjj/*/>专题专栏</a></li>');
+document.writeln('</ul>');
+document.writeln('</nav>');

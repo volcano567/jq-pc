@@ -1,0 +1,21 @@
+.crumbs{width: 100%;height: 45px;line-height: 45px;font-size: 18px;}
+.crumbs a{color: #999;}
+.crumbs span{color: #999;}
+.crumbs{color: #999;}
+.crumbs a:last-child{color: #276fa9;}
+
+.detailbox{padding: 0 70px 50px;border: 1px solid #e0e0e2;}
+.detailMain{width: 1060px;}
+.detailMain h3{color: #154c82;margin: 25px auto 0;line-height: 40px;font-size: 24px;font-weight: bold;text-align: center;}
+.detailMain h6{font-weight: 400;height: 36px;line-height: 36px;font-size: 16px;color: #797979;text-align: center;background: #f3f3f3;margin: 20px auto;}
+.con-box{width: 70%;}
+.con-box span{margin-left: 100px;}
+.share-box{margin-right: 100px;display: block;}
+.sharetxt{font-size: 14px;}
+.bdsharebuttonbox{margin-top: 4px!important;margin-left: 5px!important;margin-right: 20px!important;}
+.detailInfo{line-height: 36px;font-size: 16px;color: #000;margin-top: 20px;}
+.detailInfo p{font-size: 16px;line-height: 36px;word-break: normal;word-wrap: break-word;}
+.detailInfo img{max-width: 100%;margin: 15px auto;}
+
+table{margin: 0 auto;border-collapse: collapse;}
+table,th,td{border: 1px solid #000;}

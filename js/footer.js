@@ -1,0 +1,11 @@
+document.writeln('<div class="linkblank">');
+document.writeln('</div>');
+document.writeln('<footer>');
+document.writeln('<div class="wrap footerinfo">');
+document.writeln('<a href="http://bszs.conac.cn/sitename?method=show&id=0726B28348CE1856E053012819AC9312" target="_blank"><img src="https://file.henan.gov.cn/4500000038/new/img/footer-1.png" class="red"></a>');
+document.writeln('<p><a href="../../../sgj.henan.gov.cn/2019/10-10/964692.html"/*tpa=http://sgj.henan.gov.cn/2019/10-10/964692.html*/>关于我们</a><span>|</span><a href="../../../sgj.henan.gov.cn/2019/09-18/954615.html"/*tpa=http://sgj.henan.gov.cn/2019/09-18/954615.html*/>联系我们</a><span>|</span><a href="../../../sgj.henan.gov.cn/wzdt/index.htm"/*tpa=http://sgj.henan.gov.cn/wzdt/*/>网站地图</a></p>');
+document.writeln('<p>主办：河南省机关事务管理局  技术支持：<a href="https://www.dahe.cn/" target="_blank">大河网</a></p>');
+document.writeln('<p>政府网站标识码：4100000032   <a href="http://www.beian.miit.gov.cn/" target="_blank">备案号：豫ICP备09021369号-1</a></p>');
+document.writeln('<a href="http://121.43.68.40/exposure/jiucuo.html?site_code=4100000001&url=http%3A%2F%2Fhenan.gov.cn%2F" target="_blank"><img src="https://file.henan.gov.cn/4500000038/new/img/footer-4.png" class="jiucuo"></a>');
+document.writeln('</div>');
+document.writeln('</footer>');

@@ -1,0 +1,127 @@
+.crumbs{width: 100%;height: 45px;line-height: 45px;font-size: 18px;color: #999;}
+.crumbs a{color: #999;}
+.crumbs span{color: #999;}
+.crumbs a:last-child{color: #276fa9;}
+.ztlist{width: 820px;}
+.ztItem{width: 330px;margin: 0 40px 20px 40px;}
+.ztItem img{width: 330px;height: 210px;}
+.ztItem p{width: 100%;height: 37px;line-height: 37px;font-size: 20px;color: #000;text-align: center;;}
+.ztItem div{font-size: 14px;color: #7e7d7d;text-indent: 2em;line-height: 23px;height: 50px;}
+.ztright{width: 419px;height: 264px;background: #eee;border: 1px solid #e0e0e2;padding: 18px;}
+.zrrightTitle{width: 100%;line-height: 22px;font-size: 18px;font-weight: bold;color: #276fa9;}
+.zrrightTitle .more{font-size: 14px;line-height: 28px;font-weight: normal;color: #276fa9;float: right;}
+.ztright ul{margin-top: 5px;}
+.ztright ul li{height: 34px;line-height: 34px;text-indent: 15px;width: 100%;font-size: 16px;background: url("../img/xw_rightdian.jpg")/*tpa=https://file.henan.gov.cn/4500000038/new/img/xw_rightdian.jpg*/ left center no-repeat;}
+/* 通用 */
+.listNav{width: 200px;}
+.listNavfirst{width: 200px;height: 74px;line-height: 74px;font-size: 24px;font-weight: bold;color: #fff;background: #276fa9;text-align: center;}
+.listNav ul li{width: 200px;height: 74px;font-size: 18px;background: #f7f7f7;margin-top: 5px;text-align: center;line-height: 74px;font-weight: bold;}
+.listNav ul li a{display: block;width: 100%;color: #7b7b7b;}
+.listNav ul li:hover a{color: #276fa9;background: url("../img/jt.png")/*tpa=https://file.henan.gov.cn/4500000038/new/img/jt.png*/ 180px center no-repeat #f7f7f7;}
+.listNews ul{padding: 20px;border: 1px solid #e0e0e2;width: 970px;}
+.listNews ul li{height: 35px;line-height: 35px;text-indent: 15px;width: 100%;font-size: 16px;background: url("../img/xw_rightdian.jpg")/*tpa=https://file.henan.gov.cn/4500000038/new/img/xw_rightdian.jpg*/ left center no-repeat;}
+.listNews ul li:hover a{color: #276fa9;}
+.listNews ul li span{float: right;color: #999;}
+.listactive a{color: #276fa9!important;background: url("../img/jt.png")/*tpa=https://file.henan.gov.cn/4500000038/new/img/jt.png*/ 180px center no-repeat #f7f7f7;}
+/* 互动交流 */
+.hdLeft{width: 725px;}
+.zxBox{width: 725px;}
+.zxTitle{width: 100%;height: 45px;line-height: 45px;border-bottom: 1px solid #e0e0e2;font-size: 18px;color: #276fa9;font-weight: bold;}
+.zxTitle .more,.hfTitle .more{font-size: 14px;color: #999;float: right;line-height: 26px;margin-top: 10px;}
+.zxBox p{font-size: 16px;line-height: 26px;text-indent: 2em;color: #333;margin-top: 10px;}
+.zxBtn{width: 190px;height: 35px;display: block;margin: 10px auto 0;font-size: 14px;color: #fff;background:#276fa9;text-align: center;line-height: 35px;border-radius: 3px;}
+.hfTitle{width: 100%;height: 39px;line-height: 39px;background: url("../img/vt.png")/*tpa=https://file.henan.gov.cn/4500000038/new/img/vt.png*/ left top no-repeat #f7f7f7;text-indent: 30px;font-size: 18px;color: #276fa9;font-weight: bold;}
+.hfBox ul li{height: 35px;line-height: 35px;text-indent: 15px;width: 100%;font-size: 16px;background: url("../img/xw_rightdian.jpg")/*tpa=https://file.henan.gov.cn/4500000038/new/img/xw_rightdian.jpg*/ left center no-repeat;}
+.hfBox ul li span{float: right;color: #999;}
+.hfBox ul{margin-top: 10px;}
+.concentration{background: #6ad865;display: inline-block;width: 52px;line-height: 22px;text-align: center;font-size: 12px;color: #fff;border-radius: 3px;margin-right: 10px;}
+.dcBox ul li{height: 22px;margin-top: 15px;font-size: 16px;line-height: 22px;}
+.dcBox ul li .timer{float: right;color: #999;}
+.hdRight{width: 430px;border: 1px solid #e0e0e2;min-height: 240px;}
+.hdTitle{width:100%;height: 63px;line-height: 63px;font-size: 28px;font-weight: bold;text-align: center;color: #fff;background: #276fa9;}
+.hdRight ul{width: 400px;margin-left: 15px;margin-top: 10px;}
+.hdRight ul li{height: 37px;line-height: 37px;text-indent: 15px;width: 100%;font-size: 16px;background: url("../img/xw_rightdian.jpg")/*tpa=https://file.henan.gov.cn/4500000038/new/img/xw_rightdian.jpg*/ left center no-repeat;}
+/* 政务公开 */
+.zwleft{width: 435px;}
+.leaderBox{border-bottom: 3px solid #dcdcdc;padding-bottom: 20px;}
+.leadertitle{height: 39px;line-height: 39px;width: 100%;background: url("../img/vt.png")/*tpa=https://file.henan.gov.cn/4500000038/new/img/vt.png*/ left top no-repeat #f7f7f7;font-size: 18px;font-weight: bold;color: #276fa9;text-indent: 25px;}
+.leadertitle .more{float: right;margin-right: 5px;line-height: 44px;color: #999;font-size: 14px;}
+.leaderimg{width: 140px; /* height: 215px; */}
+.leadertype{width: 270px;height: 215px;}
+.leadernamebox{width: 100%;height: 26px;line-height: 26px;background: url("../img/bb.png")/*tpa=https://file.henan.gov.cn/4500000038/new/img/bb.png*/ left center no-repeat;}
+.leadernamebox a{display: inline-block;font-size: 18px;font-weight: bold;color: #757575;text-indent: 35px;}
+.leadernamebox span{display: inline-block;font-size: 16px;color: #276fa9;margin-left: 10px;font-weight: bold;}
+.leadersum{font-size: 15px;color: #333;line-height: 27px;margin-top: 10px;text-indent: 2em;}
+.leadersum a{color: #276fa9;}
+.leaderany ul{margin-top: 25px;}
+.leaderany ul li{width: 100%;height: 45px;line-height: 45px;background: url("../img/bb.png")/*tpa=https://file.henan.gov.cn/4500000038/new/img/bb.png*/ 20px center no-repeat #f7f7f7;text-indent: 55px;font-size: 16px;color: #757575;font-weight: bold;margin-bottom: 10px;}
+.leaderany ul li a{color: #757575;}
+.zwulbox{width: 435px;height: 431px;background: url("../img/bj.jpg")/*tpa=https://file.henan.gov.cn/4500000038/new/img/bj.jpg*/ left top no-repeat;margin-top: 25px;padding-top: 1px;}
+.zwulbox ul{width: 394px;margin-left: 30px;overflow: hidden;margin-top: 20px;padding-top: 1px;}
+.zwulbox ul li{width: 197px;height: 40px;float: left;text-align: left;font-size: 15px;line-height: 40px;margin-top: 20px;}
+.zwulbox ul li img{display: inline-block;margin: 0 5px;}
+.zwright{width: 725px;}
+.wjbox ul{margin-top: 10px;}
+.wjbox ul li{height: 37px;line-height: 37px;text-indent: 15px;width: 100%;font-size: 16px;background: url("../img/xw_rightdian.jpg")/*tpa=https://file.henan.gov.cn/4500000038/new/img/xw_rightdian.jpg*/ left center no-repeat;}
+.wjbox ul li span{float: right;color: #999;}
+
+.slideTxtBox{ width:725px;text-align:left;margin-top: 48px;}
+.slideTxtBox .hd{ height:39px; line-height:39px; background:url("../img/vt.png")/*tpa=https://file.henan.gov.cn/4500000038/new/img/vt.png*/ left top no-repeat #f7f7f7;position:relative;width: 100%;}
+.slideTxtBox .hd ul{ float:left;  position:absolute; left:20px; top:-1px; height:39px;}
+.slideTxtBox .hd ul li{ float:left; padding:0 15px; cursor:pointer;font-size: 18px;font-weight: bold;}
+.slideTxtBox .hd ul span{float: left;color: #276fa9;}
+.slideTxtBox .hd ul li.on{color: #276fa9;}
+.slideTxtBox .bd ul{zoom:1;}
+.slideTxtBox .bd li{height: 740px;width: 100%;border: 1px solid #e0e0e2;border-top: none;border-right: none;overflow-y:scroll;font-size: 16px;padding: 0 20px;}
+.slideTxtBox .bd li::-webkit-scrollbar{width: 10px;height: 575px;background-color: #d3d3d3;}
+.slideTxtBox .bd li::-webkit-scrollbar-track{background-color:#d3d3d3;}
+.slideTxtBox .bd li::-webkit-scrollbar-thumb{width: 10px;height: auto;background-color: #276fa9;}
+.slideTxtBox .bd li p{font-size: 16px;line-height: 28px;text-indent: 2em;margin: 10px 0;}
+/* 网站地图 */
+.mainListNav{margin-top: 10px;padding-top: 1px;width: 1200px;}
+.mainListNav li{width: 180px;height: 40px;background: #f6f6f6;font-size: 16px;line-height: 40px;text-align: center;float: left;margin-right: 24px;margin-top: 15px;}
+.mainListTitle{width: 100%;height: 33px;background: #f7f7f7;font-size: 20px;color: #2c72ad;line-height: 33px;text-indent: 12px;font-weight: bold;border-left: 3px solid #2c72ad;}
+/* 通栏列表 */
+.listmain{width: 1200px;border: 1px solid #e0e0e2;}
+.listmain ul{width: 1140px;margin: 30px;}
+.listmain ul li{width: 100%;height: 37px;line-height: 37px;font-size: 16px;text-indent: 15px;background: url("../img/xw_rightdian.jpg")/*tpa=https://file.henan.gov.cn/4500000038/new/img/xw_rightdian.jpg*/ left center no-repeat;}
+.listmain ul li span{float: right;color: #999;}
+/* 人事信息 */
+.listleader{width: 925px;margin-left: auto;margin-right: auto;}
+.listleaderitem{margin-top: 20px;width: 100%;height: 240px;padding: 20px;border: 1px dashed #e0e0e2;}
+.listleaderitemtype{width: 715px;height: 200px;position: relative;}
+.leaderimg1{width: 150px;height: 200px;}
+.leadermore{position: absolute;bottom: 0;right: 10px;color: #276fa9;}
+.text35{text-indent: 35px!important;}
+.text35 p{margin-bottom: 5px;font-size: 16px!important;}
+.anyleaderitem{width: 450px;height: 240px;padding: 20px;border: 1px dashed #e0e0e2;margin-top: 20px;float: left;}
+.listleaderitemtype2{width: 240px;height: 200px;}
+.anyleaderitem:nth-child(2n){float: right!important;}
+.fllowlist{width: 705px;margin: 20px auto 0;}
+.fllowleft{width: 250px;height:50px;background: #ececec url("../img/rightimg.png")/*tpa=https://file.henan.gov.cn/4500000038/new/img/rightimg.png*/ 45px center no-repeat;line-height: 50px;font-size: 15px;font-weight: bold;color: #000;text-align: center;border-radius: 5px;}
+
+/* 局属单位 */
+.jsdwmap{width: 1200px;height: 1126px;background: url("../img/jsdwmap.jpg")/*tpa=https://file.henan.gov.cn/4500000038/new/img/jsdwmap.jpg*/ center top no-repeat;}
+.jsdwblank{width: 1200px;height: 253px;}
+.jsdwone{width: 1168px;height: 245px;margin-left: 30px;}
+.jsdwone a{display: block;width: 65px;height: 245px;float: left;margin-left: 60px;}
+.jsdwblank2{height: 265px;width: 1200px;}
+.jsdwtwo{margin-left: 13px;}
+.jsdwtwo a{display: block;width: 65px;height: 245px;float: left;margin-left: 60px;}
+.jsdwthree{width: 420px;margin-right: 44px;}
+.jsdwthree a{display: block;width: 65px;height: 245px;float: left;margin-left: 40px;}
+/* 内设机构 */
+.nsjgmap{width: 1200px;height: 730px;background: url("../img/nsjgmap.jpg")/*tpa=https://file.henan.gov.cn/4500000038/new/img/nsjgmap.jpg*/ center top no-repeat;}
+.nsjgblank{width: 1200px;height: 244px;}
+.nsjgone{margin-left: 49px;}
+.nsjgone a{display: block;width: 39px;height: 220px;float: left;margin-left: 37px;}
+/* 专题专栏 */
+.zt-list1{width: 380px;background: #f7f7f7;padding: 20px;}
+.zt-list1 h1 a{font-size: 22px;color: #015293;margin-bottom: 10px;display: block;}
+.zt-list1 ul{margin-top: 10px;}
+.zt-list1 ul li{height: 36px;line-height: 36px;text-indent: 12px;font-size: 16px;background: url("../img/xw_rightdian.jpg")/*tpa=https://file.henan.gov.cn/4500000038/new/img/xw_rightdian.jpg*/ left center no-repeat;}
+.zt-list1 ul li a{color: #333;}
+
+.listNews a:hover {
+    color: #015293;
+}
